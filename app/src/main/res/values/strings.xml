@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lugares Favoritos</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña (mínimo 6 caracteres)</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Crear cuenta</string>
+    <string name="datos_invalidos">Ingresa un correo válido y una contraseña de al menos 6 caracteres</string>
+    <string name="error_generico">Ocurrió un error, inténtalo de nuevo</string>
+    <string name="error_correo_en_uso">Ese correo ya tiene una cuenta. Usa \"Ingresar\".</string>
+    <string name="error_clave_debil">La contraseña es muy débil: usa al menos 6 caracteres.</string>
+    <string name="error_credenciales">Correo o contraseña incorrectos.</string>
+    <string name="error_red">Sin conexión a internet. Revisa tu red e inténtalo de nuevo.</string>
+    <string name="error_api_key">La API key de Firebase no es válida: revisa que app/google-services.json sea el de tu proyecto, haz Clean/Rebuild y reinstala la app.</string>
+    <string name="error_auth_desactivado">Activa Authentication → Correo/contraseña en la consola de Firebase.</string>
+    <string name="ver_mapa">Ver mapa</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="nuevo_lugar">Nuevo lugar</string>
+    <string name="nombre_lugar">Nombre del lugar</string>
+    <string name="foto">Foto del lugar</string>
+    <string name="elegir_foto">Elegir foto</string>
+    <string name="obtener_ubicacion">Obtener mi ubicación</string>
+    <string name="sin_ubicacion_aun">Ubicación: sin obtener</string>
+    <string name="buscando_ubicacion">Buscando ubicación…</string>
+    <string name="sin_ubicacion">No se pudo obtener la ubicación. Activa el GPS e inténtalo de nuevo.</string>
+    <string name="guardar">Guardar lugar</string>
+    <string name="faltan_datos">Completa el nombre y obtén la ubicación (la foto es opcional)</string>
+    <string name="error_foto">Error al subir la foto</string>
+    <string name="foto_no_subida">No se pudo subir la foto (revisa que Storage esté activo en Firebase). El lugar se guardará sin foto.</string>
+    <string name="permiso_titulo">Permiso de ubicación</string>
+    <string name="permiso_motivo">Necesitamos tu ubicación para guardar dónde está el lugar y mostrarlo en el mapa.</string>
+    <string name="permiso_denegado">Sin el permiso de ubicación no se puede guardar el lugar.</string>
+    <string name="permiso_bloqueado">El permiso de ubicación está bloqueado. Actívalo en Ajustes → Permisos → Ubicación.</string>
+    <string name="abrir_ajustes">Abrir ajustes</string>
+    <string name="continuar">Continuar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sin_lugares">Aún no tienes lugares guardados</string>
+</resources>
